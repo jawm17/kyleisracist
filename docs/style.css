@@ -1,0 +1,9 @@
+#flex {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+#racistTitle {
+    text-align: center;
+    font-size: 30px;
+}
